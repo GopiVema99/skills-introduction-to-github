@@ -4,4 +4,6 @@ git add
 
 git branch
 
+git status
+
 git commit
